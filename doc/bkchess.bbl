@@ -1,0 +1,68 @@
+\begin{thebibliography}{10}
+
+\bibitem{anthony_2014}
+S.~Anthony.
+\newblock A new (computer) chess champion is crowned, and the continued demise
+  of human grandmasters.
+\newblock {\em extremetech}, Dec 2014.
+
+\bibitem{bitboards}
+{Bitboards}.
+\newblock Bitboards --- the chess programming wiki, 2012.
+\newblock [Online; accessed 9-May-2016].
+
+\bibitem{BluefeverSoftware}
+{Bluefever Software}.
+\newblock Chess engine in c, 2014.
+\newblock [Online; accessed 10-May-2016].
+
+\bibitem{bovskovic2005representation}
+B.~Bo{\v{s}}kovi{\'c}, S.~Greiner, J.~Brest, and V.~{\v{Z}}umer.
+\newblock The representation of chess game.
+\newblock In {\em Information Technology Interfaces, 2005. 27th International
+  Conference on}, pages 359--364. IEEE, 2005.
+
+\bibitem{boule2002fpga}
+M.~Boul{\'e}.
+\newblock {\em An FPGA Move Generator for the Game of Chess}.
+\newblock PhD thesis, Citeseer, 2002.
+
+\bibitem{computerchess}
+{ComputerChess}.
+\newblock Ccrl 40/40, 2016.
+\newblock [Online; accessed 10-May-2016].
+
+\bibitem{laramee2000chess}
+F.~D. Laram{\'e}e.
+\newblock Chess programming part vi: Evaluation functions.
+\newblock {\em Retrieved December}, 1:2008, 2000.
+
+\bibitem{reinefeld1983improvement}
+A.~Reinefeld.
+\newblock An improvement of the scout tree-search algorithm.
+\newblock {\em ICCA Journal}, 6(4):4--14, 1983.
+
+\bibitem{schaeffer1989history}
+J.~Schaeffer.
+\newblock The history heuristic and alpha-beta search enhancements in practice.
+\newblock {\em Pattern Analysis and Machine Intelligence, IEEE Transactions
+  on}, 11(11):1203--1212, 1989.
+
+\bibitem{segundo2006efficient}
+P.~S. Segundo, R.~Gal{\'a}n, F.~Matia, D.~Rodriguez-Losada, and A.~Jimenez.
+\newblock Efficient search using bitboard models.
+\newblock In {\em Tools with Artificial Intelligence, 2006. ICTAI'06. 18th IEEE
+  International Conference on}, pages 132--138. IEEE, 2006.
+
+\bibitem{shannon1950xxii}
+C.~E. Shannon.
+\newblock Xxii. programming a computer for playing chess.
+\newblock {\em The London, Edinburgh, and Dublin Philosophical Magazine and
+  Journal of Science}, 41(314):256--275, 1950.
+
+\bibitem{tabibi2002verified}
+O.~D. Tabibi and N.~S. Netanyahu.
+\newblock Verified null-move pruning.
+\newblock {\em ICGA Journal}, 2002.
+
+\end{thebibliography}

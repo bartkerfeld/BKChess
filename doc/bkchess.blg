@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: bkchess.aux
+The style file: abbrv.bst
+Database file #1: ./bkchess.bib.bib
+You've used 12 entries,
+            2118 wiz_defined-function locations,
+            568 strings with 5392 characters,
+and the built_in function-call counts, 3512 in all, are:
+= -- 355
+> -- 127
+< -- 2
++ -- 57
+- -- 40
+* -- 203
+:= -- 586
+add.period$ -- 38
+call.type$ -- 12
+change.case$ -- 55
+chr.to.int$ -- 0
+cite$ -- 12
+duplicate$ -- 140
+empty$ -- 300
+format.name$ -- 40
+if$ -- 743
+int.to.chr$ -- 0
+int.to.str$ -- 12
+missing$ -- 8
+newline$ -- 63
+num.names$ -- 24
+pop$ -- 68
+preamble$ -- 1
+purify$ -- 44
+quote$ -- 0
+skip$ -- 105
+stack$ -- 0
+substring$ -- 213
+swap$ -- 32
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 48
+warning$ -- 0
+while$ -- 37
+width$ -- 14
+write$ -- 131

@@ -1,0 +1,282 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+A1	bitboard.h	/^  A1, B1, C1, D1, E1, F1, G1, H1,$/;"	e	enum:Square
+A2	bitboard.h	/^  A2, B2, C2, D2, E2, F2, G2, H2,$/;"	e	enum:Square
+A3	bitboard.h	/^  A3, B3, C3, D3, E3, F3, G3, H3,$/;"	e	enum:Square
+A4	bitboard.h	/^  A4, B4, C4, D4, E4, F4, G4, H4,$/;"	e	enum:Square
+A5	bitboard.h	/^  A5, B5, C5, D5, E5, F5, G5, H5,$/;"	e	enum:Square
+A6	bitboard.h	/^  A6, B6, C6, D6, E6, F6, G6, H6,$/;"	e	enum:Square
+A7	bitboard.h	/^  A7, B7, C7, D7, E7, F7, G7, H7,$/;"	e	enum:Square
+A8	bitboard.h	/^  A8, B8, C8, D8, E8, F8, G8, H8, NOSQ$/;"	e	enum:Square
+All_Pieces	board.h	/^  White_Pieces, Black_Pieces, All_Pieces$/;"	e	enum:Piece
+B1	bitboard.h	/^  A1, B1, C1, D1, E1, F1, G1, H1,$/;"	e	enum:Square
+B2	bitboard.h	/^  A2, B2, C2, D2, E2, F2, G2, H2,$/;"	e	enum:Square
+B3	bitboard.h	/^  A3, B3, C3, D3, E3, F3, G3, H3,$/;"	e	enum:Square
+B4	bitboard.h	/^  A4, B4, C4, D4, E4, F4, G4, H4,$/;"	e	enum:Square
+B5	bitboard.h	/^  A5, B5, C5, D5, E5, F5, G5, H5,$/;"	e	enum:Square
+B6	bitboard.h	/^  A6, B6, C6, D6, E6, F6, G6, H6,$/;"	e	enum:Square
+B7	bitboard.h	/^  A7, B7, C7, D7, E7, F7, G7, H7,$/;"	e	enum:Square
+B8	bitboard.h	/^  A8, B8, C8, D8, E8, F8, G8, H8, NOSQ$/;"	e	enum:Square
+BKCA	board.h	/^  WKCA = 1, WQCA = 2, BKCA = 4, BQCA = 8$/;"	e	enum:CastlePerm
+BQCA	board.h	/^  WKCA = 1, WQCA = 2, BKCA = 4, BQCA = 8$/;"	e	enum:CastlePerm
+BitBoard	bitboard.h	/^class BitBoard {$/;"	c
+Black	bitboard.h	/^  White, Black$/;"	e	enum:Color
+Black_Bishops	board.h	/^  Black_Pawns, Black_Knights, Black_Bishops, Black_Rooks, Black_Queens, Black_King,$/;"	e	enum:Piece
+Black_King	board.h	/^  Black_Pawns, Black_Knights, Black_Bishops, Black_Rooks, Black_Queens, Black_King,$/;"	e	enum:Piece
+Black_Knights	board.h	/^  Black_Pawns, Black_Knights, Black_Bishops, Black_Rooks, Black_Queens, Black_King,$/;"	e	enum:Piece
+Black_Pawns	board.h	/^  Black_Pawns, Black_Knights, Black_Bishops, Black_Rooks, Black_Queens, Black_King,$/;"	e	enum:Piece
+Black_Pieces	board.h	/^  White_Pieces, Black_Pieces, All_Pieces$/;"	e	enum:Piece
+Black_Queens	board.h	/^  Black_Pawns, Black_Knights, Black_Bishops, Black_Rooks, Black_Queens, Black_King,$/;"	e	enum:Piece
+Black_Rooks	board.h	/^  Black_Pawns, Black_Knights, Black_Bishops, Black_Rooks, Black_Queens, Black_King,$/;"	e	enum:Piece
+Board	board.h	/^class Board {$/;"	c
+C1	bitboard.h	/^  A1, B1, C1, D1, E1, F1, G1, H1,$/;"	e	enum:Square
+C2	bitboard.h	/^  A2, B2, C2, D2, E2, F2, G2, H2,$/;"	e	enum:Square
+C3	bitboard.h	/^  A3, B3, C3, D3, E3, F3, G3, H3,$/;"	e	enum:Square
+C4	bitboard.h	/^  A4, B4, C4, D4, E4, F4, G4, H4,$/;"	e	enum:Square
+C5	bitboard.h	/^  A5, B5, C5, D5, E5, F5, G5, H5,$/;"	e	enum:Square
+C6	bitboard.h	/^  A6, B6, C6, D6, E6, F6, G6, H6,$/;"	e	enum:Square
+C7	bitboard.h	/^  A7, B7, C7, D7, E7, F7, G7, H7,$/;"	e	enum:Square
+C8	bitboard.h	/^  A8, B8, C8, D8, E8, F8, G8, H8, NOSQ$/;"	e	enum:Square
+CASTLE_PERMISSION	movegen.h	23;"	d
+CaptureEndIndex	movegen.cpp	/^static const int CaptureEndIndex[2] = { 13, 7 };$/;"	v	file:
+CaptureStartIndex	movegen.cpp	/^static const int CaptureStartIndex[2] = { 7, 1 };$/;"	v	file:
+Castle	movegen.h	/^  Normal, EnPassant, Castle, Promotion$/;"	e	enum:MoveType
+CastlePerm	board.h	/^enum CastlePerm {$/;"	g
+Color	bitboard.h	/^enum Color {$/;"	g
+D1	bitboard.h	/^  A1, B1, C1, D1, E1, F1, G1, H1,$/;"	e	enum:Square
+D2	bitboard.h	/^  A2, B2, C2, D2, E2, F2, G2, H2,$/;"	e	enum:Square
+D3	bitboard.h	/^  A3, B3, C3, D3, E3, F3, G3, H3,$/;"	e	enum:Square
+D4	bitboard.h	/^  A4, B4, C4, D4, E4, F4, G4, H4,$/;"	e	enum:Square
+D5	bitboard.h	/^  A5, B5, C5, D5, E5, F5, G5, H5,$/;"	e	enum:Square
+D6	bitboard.h	/^  A6, B6, C6, D6, E6, F6, G6, H6,$/;"	e	enum:Square
+D7	bitboard.h	/^  A7, B7, C7, D7, E7, F7, G7, H7,$/;"	e	enum:Square
+D8	bitboard.h	/^  A8, B8, C8, D8, E8, F8, G8, H8, NOSQ$/;"	e	enum:Square
+Direction	bitboard.h	/^enum Direction {$/;"	g
+E1	bitboard.h	/^  A1, B1, C1, D1, E1, F1, G1, H1,$/;"	e	enum:Square
+E2	bitboard.h	/^  A2, B2, C2, D2, E2, F2, G2, H2,$/;"	e	enum:Square
+E3	bitboard.h	/^  A3, B3, C3, D3, E3, F3, G3, H3,$/;"	e	enum:Square
+E4	bitboard.h	/^  A4, B4, C4, D4, E4, F4, G4, H4,$/;"	e	enum:Square
+E5	bitboard.h	/^  A5, B5, C5, D5, E5, F5, G5, H5,$/;"	e	enum:Square
+E6	bitboard.h	/^  A6, B6, C6, D6, E6, F6, G6, H6,$/;"	e	enum:Square
+E7	bitboard.h	/^  A7, B7, C7, D7, E7, F7, G7, H7,$/;"	e	enum:Square
+E8	bitboard.h	/^  A8, B8, C8, D8, E8, F8, G8, H8, NOSQ$/;"	e	enum:Square
+ENPASSANT_SQUARE	movegen.h	24;"	d
+East	bitboard.h	/^  North, NorthEast, East, SouthEast, South, SouthWest, West, NorthWest$/;"	e	enum:Direction
+EnPassant	movegen.h	/^  Normal, EnPassant, Castle, Promotion$/;"	e	enum:MoveType
+F1	bitboard.h	/^  A1, B1, C1, D1, E1, F1, G1, H1,$/;"	e	enum:Square
+F2	bitboard.h	/^  A2, B2, C2, D2, E2, F2, G2, H2,$/;"	e	enum:Square
+F3	bitboard.h	/^  A3, B3, C3, D3, E3, F3, G3, H3,$/;"	e	enum:Square
+F4	bitboard.h	/^  A4, B4, C4, D4, E4, F4, G4, H4,$/;"	e	enum:Square
+F5	bitboard.h	/^  A5, B5, C5, D5, E5, F5, G5, H5,$/;"	e	enum:Square
+F6	bitboard.h	/^  A6, B6, C6, D6, E6, F6, G6, H6,$/;"	e	enum:Square
+F7	bitboard.h	/^  A7, B7, C7, D7, E7, F7, G7, H7,$/;"	e	enum:Square
+F8	bitboard.h	/^  A8, B8, C8, D8, E8, F8, G8, H8, NOSQ$/;"	e	enum:Square
+FILE_SQ	movegen.cpp	/^static const U64 FILE_SQ[64] = {$/;"	v	file:
+FROM_SQUARE	movegen.h	20;"	d
+File	bitboard.h	/^enum File {$/;"	g
+File_A	bitboard.h	/^  File_A, File_B, File_C, File_D, File_E, File_F, File_G, File_H$/;"	e	enum:File
+File_B	bitboard.h	/^  File_A, File_B, File_C, File_D, File_E, File_F, File_G, File_H$/;"	e	enum:File
+File_C	bitboard.h	/^  File_A, File_B, File_C, File_D, File_E, File_F, File_G, File_H$/;"	e	enum:File
+File_D	bitboard.h	/^  File_A, File_B, File_C, File_D, File_E, File_F, File_G, File_H$/;"	e	enum:File
+File_E	bitboard.h	/^  File_A, File_B, File_C, File_D, File_E, File_F, File_G, File_H$/;"	e	enum:File
+File_F	bitboard.h	/^  File_A, File_B, File_C, File_D, File_E, File_F, File_G, File_H$/;"	e	enum:File
+File_G	bitboard.h	/^  File_A, File_B, File_C, File_D, File_E, File_F, File_G, File_H$/;"	e	enum:File
+File_H	bitboard.h	/^  File_A, File_B, File_C, File_D, File_E, File_F, File_G, File_H$/;"	e	enum:File
+G1	bitboard.h	/^  A1, B1, C1, D1, E1, F1, G1, H1,$/;"	e	enum:Square
+G2	bitboard.h	/^  A2, B2, C2, D2, E2, F2, G2, H2,$/;"	e	enum:Square
+G3	bitboard.h	/^  A3, B3, C3, D3, E3, F3, G3, H3,$/;"	e	enum:Square
+G4	bitboard.h	/^  A4, B4, C4, D4, E4, F4, G4, H4,$/;"	e	enum:Square
+G5	bitboard.h	/^  A5, B5, C5, D5, E5, F5, G5, H5,$/;"	e	enum:Square
+G6	bitboard.h	/^  A6, B6, C6, D6, E6, F6, G6, H6,$/;"	e	enum:Square
+G7	bitboard.h	/^  A7, B7, C7, D7, E7, F7, G7, H7,$/;"	e	enum:Square
+G8	bitboard.h	/^  A8, B8, C8, D8, E8, F8, G8, H8, NOSQ$/;"	e	enum:Square
+H1	bitboard.h	/^  A1, B1, C1, D1, E1, F1, G1, H1,$/;"	e	enum:Square
+H2	bitboard.h	/^  A2, B2, C2, D2, E2, F2, G2, H2,$/;"	e	enum:Square
+H3	bitboard.h	/^  A3, B3, C3, D3, E3, F3, G3, H3,$/;"	e	enum:Square
+H4	bitboard.h	/^  A4, B4, C4, D4, E4, F4, G4, H4,$/;"	e	enum:Square
+H5	bitboard.h	/^  A5, B5, C5, D5, E5, F5, G5, H5,$/;"	e	enum:Square
+H6	bitboard.h	/^  A6, B6, C6, D6, E6, F6, G6, H6,$/;"	e	enum:Square
+H7	bitboard.h	/^  A7, B7, C7, D7, E7, F7, G7, H7,$/;"	e	enum:Square
+H8	bitboard.h	/^  A8, B8, C8, D8, E8, F8, G8, H8, NOSQ$/;"	e	enum:Square
+HASH_CA	makemove.cpp	9;"	d	file:
+HASH_EP	makemove.cpp	11;"	d	file:
+HASH_PCE	makemove.cpp	8;"	d	file:
+HASH_SIDE	makemove.cpp	10;"	d	file:
+LoopNonSlideIndex	movegen.cpp	/^static const int LoopNonSlideIndex[2] = { 0, 3 };$/;"	v	file:
+LoopNonSlidePiece	movegen.cpp	/^static const int LoopNonSlidePiece[6] = {$/;"	v	file:
+LoopSlideIndex	movegen.cpp	/^static const int LoopSlideIndex[2] = { 0, 4 };$/;"	v	file:
+LoopSlidePiece	movegen.cpp	/^static const int LoopSlidePiece[8] = {$/;"	v	file:
+MAX_GAME_MOVES	board.h	6;"	d
+MOVE	movegen.h	28;"	d
+MOVE_TYPE	movegen.h	22;"	d
+Move	movegen.h	/^} Move;$/;"	t	typeref:struct:__anon2
+MoveGenerator	movegen.h	/^class MoveGenerator {$/;"	c
+MoveMaker	makemove.h	/^class MoveMaker {$/;"	c
+MoveType	movegen.h	/^enum MoveType {$/;"	g
+Movelist	movegen.h	/^} Movelist;$/;"	t	typeref:struct:__anon3
+NOSQ	bitboard.h	/^  A8, B8, C8, D8, E8, F8, G8, H8, NOSQ$/;"	e	enum:Square
+None	board.h	/^  None,$/;"	e	enum:Piece
+Normal	movegen.h	/^  Normal, EnPassant, Castle, Promotion$/;"	e	enum:MoveType
+North	bitboard.h	/^  North, NorthEast, East, SouthEast, South, SouthWest, West, NorthWest$/;"	e	enum:Direction
+NorthEast	bitboard.h	/^  North, NorthEast, East, SouthEast, South, SouthWest, West, NorthWest$/;"	e	enum:Direction
+NorthWest	bitboard.h	/^  North, NorthEast, East, SouthEast, South, SouthWest, West, NorthWest$/;"	e	enum:Direction
+PIECE_CAPTURED	movegen.h	25;"	d
+PIECE_PROMOTED	movegen.h	26;"	d
+Perft	perft.h	/^class Perft {$/;"	c
+Piece	board.h	/^enum Piece {$/;"	g
+Promotion	movegen.h	/^  Normal, EnPassant, Castle, Promotion$/;"	e	enum:MoveType
+RAND_64	zobrist.cpp	5;"	d	file:
+RANK_SQ	movegen.cpp	/^static const U64 RANK_SQ[64] = {$/;"	v	file:
+Rank	bitboard.h	/^enum Rank {$/;"	g
+Rank_1	bitboard.h	/^  Rank_1, Rank_2, Rank_3, Rank_4, Rank_5, Rank_6, Rank_7, Rank_8$/;"	e	enum:Rank
+Rank_2	bitboard.h	/^  Rank_1, Rank_2, Rank_3, Rank_4, Rank_5, Rank_6, Rank_7, Rank_8$/;"	e	enum:Rank
+Rank_3	bitboard.h	/^  Rank_1, Rank_2, Rank_3, Rank_4, Rank_5, Rank_6, Rank_7, Rank_8$/;"	e	enum:Rank
+Rank_4	bitboard.h	/^  Rank_1, Rank_2, Rank_3, Rank_4, Rank_5, Rank_6, Rank_7, Rank_8$/;"	e	enum:Rank
+Rank_5	bitboard.h	/^  Rank_1, Rank_2, Rank_3, Rank_4, Rank_5, Rank_6, Rank_7, Rank_8$/;"	e	enum:Rank
+Rank_6	bitboard.h	/^  Rank_1, Rank_2, Rank_3, Rank_4, Rank_5, Rank_6, Rank_7, Rank_8$/;"	e	enum:Rank
+Rank_7	bitboard.h	/^  Rank_1, Rank_2, Rank_3, Rank_4, Rank_5, Rank_6, Rank_7, Rank_8$/;"	e	enum:Rank
+Rank_8	bitboard.h	/^  Rank_1, Rank_2, Rank_3, Rank_4, Rank_5, Rank_6, Rank_7, Rank_8$/;"	e	enum:Rank
+South	bitboard.h	/^  North, NorthEast, East, SouthEast, South, SouthWest, West, NorthWest$/;"	e	enum:Direction
+SouthEast	bitboard.h	/^  North, NorthEast, East, SouthEast, South, SouthWest, West, NorthWest$/;"	e	enum:Direction
+SouthWest	bitboard.h	/^  North, NorthEast, East, SouthEast, South, SouthWest, West, NorthWest$/;"	e	enum:Direction
+Square	bitboard.h	/^enum Square {$/;"	g
+TO_SQUARE	movegen.h	21;"	d
+U64	bitboard.h	/^typedef unsigned long long U64;$/;"	t
+U64	zobrist.h	/^typedef unsigned long long U64;$/;"	t
+Undo	board.h	/^} Undo;$/;"	t	typeref:struct:__anon1
+WKCA	board.h	/^  WKCA = 1, WQCA = 2, BKCA = 4, BQCA = 8$/;"	e	enum:CastlePerm
+WQCA	board.h	/^  WKCA = 1, WQCA = 2, BKCA = 4, BQCA = 8$/;"	e	enum:CastlePerm
+West	bitboard.h	/^  North, NorthEast, East, SouthEast, South, SouthWest, West, NorthWest$/;"	e	enum:Direction
+White	bitboard.h	/^  White, Black$/;"	e	enum:Color
+White_Bishops	board.h	/^  White_Pawns, White_Knights, White_Bishops, White_Rooks, White_Queens, White_King,$/;"	e	enum:Piece
+White_King	board.h	/^  White_Pawns, White_Knights, White_Bishops, White_Rooks, White_Queens, White_King,$/;"	e	enum:Piece
+White_Knights	board.h	/^  White_Pawns, White_Knights, White_Bishops, White_Rooks, White_Queens, White_King,$/;"	e	enum:Piece
+White_Pawns	board.h	/^  White_Pawns, White_Knights, White_Bishops, White_Rooks, White_Queens, White_King,$/;"	e	enum:Piece
+White_Pieces	board.h	/^  White_Pieces, Black_Pieces, All_Pieces$/;"	e	enum:Piece
+White_Queens	board.h	/^  White_Pawns, White_Knights, White_Bishops, White_Rooks, White_Queens, White_King,$/;"	e	enum:Piece
+White_Rooks	board.h	/^  White_Pawns, White_Knights, White_Bishops, White_Rooks, White_Queens, White_King,$/;"	e	enum:Piece
+Zobrist	zobrist.h	/^class Zobrist {$/;"	c
+add_black_pawn_capture_move	movegen.cpp	/^void MoveGenerator::add_black_pawn_capture_move(const Board &board, const int from, const int to, const int cap, Movelist &list) {$/;"	f	class:MoveGenerator
+add_black_pawn_move	movegen.cpp	/^void MoveGenerator::add_black_pawn_move(const Board &board, const int from, const int to, Movelist &list) {$/;"	f	class:MoveGenerator
+add_capture_move	movegen.cpp	/^void MoveGenerator::add_capture_move(const Board &board, int move, Movelist &list) {$/;"	f	class:MoveGenerator
+add_enpassant_move	movegen.cpp	/^void MoveGenerator::add_enpassant_move(const Board &board, int move, Movelist &list) {$/;"	f	class:MoveGenerator
+add_piece	makemove.cpp	/^void MoveMaker::add_piece(const int sq, Board &board, const int piece) {$/;"	f	class:MoveMaker
+add_quiet_move	movegen.cpp	/^void MoveGenerator::add_quiet_move(const Board &board, int move, Movelist &list) {$/;"	f	class:MoveGenerator
+add_white_pawn_capture_move	movegen.cpp	/^void MoveGenerator::add_white_pawn_capture_move(const Board &board, const int from, const int to, $/;"	f	class:MoveGenerator
+add_white_pawn_move	movegen.cpp	/^void MoveGenerator::add_white_pawn_move(const Board &board, const int from, const int to, Movelist &list) {$/;"	f	class:MoveGenerator
+bishop_attacks	movegen.cpp	/^U64 MoveGenerator::bishop_attacks(U64 bishops, U64 occupied, U64 same_color) {$/;"	f	class:MoveGenerator
+bishop_moves	movegen.cpp	/^U64 MoveGenerator::bishop_moves(const Square &sq, const U64 &occupied, const U64 &same_color) {$/;"	f	class:MoveGenerator
+bit_scan_forward	bitboard.cpp	/^int BitBoard::bit_scan_forward(U64 bb) {$/;"	f	class:BitBoard
+bit_scan_reverse	bitboard.cpp	/^int BitBoard::bit_scan_reverse(U64 bb) {$/;"	f	class:BitBoard
+castle_keys	zobrist.cpp	/^U64 Zobrist::castle_keys[16] = {0};$/;"	m	class:Zobrist	file:
+castle_keys	zobrist.h	/^  static U64 castle_keys[16];$/;"	m	class:Zobrist
+castle_perm	board.h	/^    int enpassant, castle_perm, fifty_move, ply, history_ply;$/;"	m	class:Board
+castle_perm	board.h	/^  int move, castle_perm, enpassant, fifty_move;$/;"	m	struct:__anon1
+castle_perm	makemove.cpp	/^static const int castle_perm[64] = {$/;"	v	file:
+clear_mask	bitboard.cpp	/^U64 BitBoard::clear_mask[64] = {0};$/;"	m	class:BitBoard	file:
+clear_mask	bitboard.h	/^  static U64 clear_mask[64];$/;"	m	class:BitBoard
+clear_piece	makemove.cpp	/^void MoveMaker::clear_piece(const int sq, Board &board) {$/;"	f	class:MoveMaker
+count	movegen.h	/^  int count;$/;"	m	struct:__anon3
+eastOne	bitboard.cpp	/^static U64 eastOne(const U64 &bb) {return (bb & not_file_h) << 1;}$/;"	f	file:
+enpassant	board.h	/^    int enpassant, castle_perm, fifty_move, ply, history_ply;$/;"	m	class:Board
+enpassant	board.h	/^  int move, castle_perm, enpassant, fifty_move;$/;"	m	struct:__anon1
+fifty_move	board.h	/^    int enpassant, castle_perm, fifty_move, ply, history_ply;$/;"	m	class:Board
+fifty_move	board.h	/^  int move, castle_perm, enpassant, fifty_move;$/;"	m	struct:__anon1
+file	bitboard.cpp	/^U64 BitBoard::file[8] = {0};$/;"	m	class:BitBoard	file:
+file	bitboard.h	/^  static U64 file[8];$/;"	m	class:BitBoard
+file_rank_to_sq	board.cpp	/^static const U64 file_rank_to_sq[8][8] = {$/;"	v	file:
+generate_moves	movegen.cpp	/^void MoveGenerator::generate_moves(const Board &board, Movelist &list) {$/;"	f	class:MoveGenerator
+generate_position_key	board.cpp	/^void Board::generate_position_key(Board board) {$/;"	f	class:Board
+get_move	movegen.cpp	/^std::string MoveGenerator::get_move(int &move) {$/;"	f	class:MoveGenerator
+get_nonslider_moves	movegen.cpp	/^U64 MoveGenerator::get_nonslider_moves(const int &piece_type, const Square &sq, const U64 &same_color) {$/;"	f	class:MoveGenerator
+get_slider_moves	movegen.cpp	/^U64 MoveGenerator::get_slider_moves(const int &piece_type, const Square &sq, const U64 &occupied, $/;"	f	class:MoveGenerator
+history	board.h	/^    Undo history[MAX_GAME_MOVES];$/;"	m	class:Board
+history_ply	board.h	/^    int enpassant, castle_perm, fifty_move, ply, history_ply;$/;"	m	class:Board
+index64	bitboard.cpp	/^static const int index64[64] = {$/;"	v	file:
+init	bitboard.cpp	/^void BitBoard::init() {$/;"	f	class:BitBoard
+init	board.cpp	/^void Board::init() {$/;"	f	class:Board
+init	zobrist.cpp	/^void Zobrist::init() {$/;"	f	class:Zobrist
+int_to_square	movegen.cpp	/^Square int_to_square[64] = {$/;"	v
+king_attacks	movegen.cpp	/^U64 MoveGenerator::king_attacks(U64 king, U64 same_color) {$/;"	f	class:MoveGenerator
+king_moves	bitboard.cpp	/^U64 BitBoard::king_moves[64] = {0};$/;"	m	class:BitBoard	file:
+king_moves	bitboard.h	/^  static U64 king_moves[64];$/;"	m	class:BitBoard
+king_moves	movegen.cpp	/^U64 MoveGenerator::king_moves(const Square &sq, const U64 &same_color) {$/;"	f	class:MoveGenerator
+knight_attacks	movegen.cpp	/^U64 MoveGenerator::knight_attacks(U64 knights, U64 same_color) {$/;"	f	class:MoveGenerator
+knight_moves	bitboard.cpp	/^U64 BitBoard::knight_moves[64] = {0};$/;"	m	class:BitBoard	file:
+knight_moves	bitboard.h	/^  static U64 knight_moves[64];$/;"	m	class:BitBoard
+knight_moves	movegen.cpp	/^U64 MoveGenerator::knight_moves(const Square &sq, const U64 &same_color) {$/;"	f	class:MoveGenerator
+leaf_nodes	perft.cpp	/^long Perft::leaf_nodes = 0;$/;"	m	class:Perft	file:
+leaf_nodes	perft.h	/^  static long leaf_nodes;$/;"	m	class:Perft
+main	main.cpp	/^int main(int argc, const char *argv[]) {$/;"	f
+make_move	makemove.cpp	/^bool MoveMaker::make_move(Board &board, int move) {$/;"	f	class:MoveMaker
+move	board.h	/^  int move, castle_perm, enpassant, fifty_move;$/;"	m	struct:__anon1
+move	movegen.h	/^  int move;$/;"	m	struct:__anon2
+move_piece	makemove.cpp	/^void MoveMaker::move_piece(const int from, const int to, Board &board) {$/;"	f	class:MoveMaker
+move_type	movegen.cpp	/^static std::string move_type[4] = {$/;"	v	file:
+moves	movegen.h	/^  Move moves[MAX_GAME_MOVES];$/;"	m	struct:__anon3
+noEaEa	bitboard.cpp	/^static U64 noEaEa(const U64 &bb) {return (bb & not_file_gh) << 10;}$/;"	f	file:
+noEaOne	bitboard.cpp	/^U64 BitBoard::noEaOne(const U64 &bb) {return (bb & not_file_h) << 9;}$/;"	f	class:BitBoard
+noNoEa	bitboard.cpp	/^static U64 noNoEa(const U64 &bb) {return (bb & not_file_h) << 17;}$/;"	f	file:
+noNoWe	bitboard.cpp	/^static U64 noNoWe(const U64 &bb) {return (bb & not_file_a) << 15;}$/;"	f	file:
+noWeOne	bitboard.cpp	/^U64 BitBoard::noWeOne(const U64 &bb) {return (bb & not_file_a) << 7;}$/;"	f	class:BitBoard
+noWeWe	bitboard.cpp	/^static U64 noWeWe(const U64 &bb) {return (bb & not_file_ab) <<  6;}$/;"	f	file:
+nortOne	bitboard.cpp	/^static U64 nortOne(const U64 &bb) {return (bb & not_rank_8) << 8;}$/;"	f	file:
+not_file_a	bitboard.cpp	/^static U64 not_file_a, not_file_ab, not_file_h, not_file_gh, not_rank_1, not_rank_8;$/;"	v	file:
+not_file_ab	bitboard.cpp	/^static U64 not_file_a, not_file_ab, not_file_h, not_file_gh, not_rank_1, not_rank_8;$/;"	v	file:
+not_file_gh	bitboard.cpp	/^static U64 not_file_a, not_file_ab, not_file_h, not_file_gh, not_rank_1, not_rank_8;$/;"	v	file:
+not_file_h	bitboard.cpp	/^static U64 not_file_a, not_file_ab, not_file_h, not_file_gh, not_rank_1, not_rank_8;$/;"	v	file:
+not_rank_1	bitboard.cpp	/^static U64 not_file_a, not_file_ab, not_file_h, not_file_gh, not_rank_1, not_rank_8;$/;"	v	file:
+not_rank_8	bitboard.cpp	/^static U64 not_file_a, not_file_ab, not_file_h, not_file_gh, not_rank_1, not_rank_8;$/;"	v	file:
+parse_fen	board.cpp	/^int Board::parse_fen(char *fen) {$/;"	f	class:Board
+pawn_attacks	movegen.cpp	/^U64 MoveGenerator::pawn_attacks(U64 pawns, Color color) {$/;"	f	class:MoveGenerator
+pawn_capture_moves	movegen.cpp	/^U64 MoveGenerator::pawn_capture_moves(const Square &sq, const Color &color,$/;"	f	class:MoveGenerator
+pawn_quiet_moves	movegen.cpp	/^U64 MoveGenerator::pawn_quiet_moves(const Square &sq, const Color &color, const U64 &occupied) {$/;"	f	class:MoveGenerator
+perft	perft.cpp	/^void Perft::perft(int depth, Board &board) {$/;"	f	class:Perft
+perft_tests	main.cpp	/^void perft_tests(Board board, int depth) {$/;"	f
+piece_color	board.cpp	/^const Color piece_color[13] = { $/;"	v
+piece_keys	zobrist.cpp	/^U64 Zobrist::piece_keys[13][64] = {0};$/;"	m	class:Zobrist	file:
+piece_keys	zobrist.h	/^  static U64 piece_keys[13][64];$/;"	m	class:Zobrist
+pieces	board.h	/^    U64 pieces[16];$/;"	m	class:Board
+ply	board.h	/^    int enpassant, castle_perm, fifty_move, ply, history_ply;$/;"	m	class:Board
+position_key	board.h	/^    U64 position_key;$/;"	m	class:Board
+position_key	board.h	/^  U64 position_key;$/;"	m	struct:__anon1
+print_bitboard	bitboard.cpp	/^void BitBoard::print_bitboard(const U64 &bb) {$/;"	f	class:BitBoard
+print_board	board.cpp	/^void Board::print_board() {$/;"	f	class:Board
+print_moves	main.cpp	/^void print_moves(Movelist list) {$/;"	f
+promotion_piece	movegen.cpp	/^static std::string promotion_piece[4] = {$/;"	v	file:
+queen_attacks	movegen.cpp	/^U64 MoveGenerator::queen_attacks(U64 queens, U64 occupied, U64 same_color) {$/;"	f	class:MoveGenerator
+queen_moves	movegen.cpp	/^U64 MoveGenerator::queen_moves(const Square &sq, const U64 &occupied, const U64 &same_color) {$/;"	f	class:MoveGenerator
+rank	bitboard.cpp	/^U64 BitBoard::rank[8] = {0};$/;"	m	class:BitBoard	file:
+rank	bitboard.h	/^  static U64 rank[8];$/;"	m	class:BitBoard
+rank_sq	bitboard.cpp	/^U64 BitBoard::rank_sq[64] = {0};$/;"	m	class:BitBoard	file:
+rank_sq	bitboard.h	/^  static U64 rank_sq[64];$/;"	m	class:BitBoard
+ray_attacks	bitboard.cpp	/^U64 BitBoard::ray_attacks[64][8] = {0};$/;"	m	class:BitBoard	file:
+ray_attacks	bitboard.h	/^  static U64 ray_attacks[64][8];$/;"	m	class:BitBoard
+reset	board.cpp	/^void Board::reset() {$/;"	f	class:Board
+rook_attacks	movegen.cpp	/^U64 MoveGenerator::rook_attacks(U64 rooks, U64 occupied, U64 same_color) {$/;"	f	class:MoveGenerator
+rook_moves	movegen.cpp	/^U64 MoveGenerator::rook_moves(const Square &sq, const U64 &occupied, const U64 &same_color) {$/;"	f	class:MoveGenerator
+score	movegen.h	/^  int score;$/;"	m	struct:__anon2
+set_mask	bitboard.cpp	/^U64 BitBoard::set_mask[64] = {0};$/;"	m	class:BitBoard	file:
+set_mask	bitboard.h	/^  static U64 set_mask[64];$/;"	m	class:BitBoard
+side	board.h	/^    Color side;$/;"	m	class:Board
+side_key	zobrist.cpp	/^U64 Zobrist::side_key = 0;$/;"	m	class:Zobrist	file:
+side_key	zobrist.h	/^  static U64 side_key;$/;"	m	class:Zobrist
+soEaEa	bitboard.cpp	/^static U64 soEaEa(const U64 &bb) {return (bb & not_file_gh) >>  6;}$/;"	f	file:
+soEaOne	bitboard.cpp	/^U64 BitBoard::soEaOne(const U64 &bb) {return (bb & not_file_h) >> 7;}$/;"	f	class:BitBoard
+soSoEa	bitboard.cpp	/^static U64 soSoEa(const U64 &bb) {return (bb & not_file_h) >> 15;}$/;"	f	file:
+soSoWe	bitboard.cpp	/^static U64 soSoWe(const U64 &bb) {return (bb & not_file_a) >> 17;}$/;"	f	file:
+soWeOne	bitboard.cpp	/^U64 BitBoard::soWeOne(const U64 &bb) {return (bb & not_file_a) >> 9;}$/;"	f	class:BitBoard
+soWeWe	bitboard.cpp	/^static U64 soWeWe(const U64 &bb) {return (bb & not_file_ab) >> 10;}$/;"	f	file:
+soutOne	bitboard.cpp	/^static U64 soutOne(const U64 &bb) {return (bb & not_rank_1) >> 8;}$/;"	f	file:
+split	main.cpp	/^std::vector<std::string> &split(const std::string &s, char delim, std::vector<std::string> &elems) {$/;"	f
+split	main.cpp	/^std::vector<std::string> split(const std::string &s, char delim) {$/;"	f
+square_attacked	movegen.cpp	/^bool MoveGenerator::square_attacked(const Square &square, const Color &attacker_color, const Board &board) {$/;"	f	class:MoveGenerator
+square_name	movegen.cpp	/^static std::string square_name[64] = {$/;"	v	file:
+stepper	main.cpp	/^void stepper(Board board) {$/;"	f
+take_move	makemove.cpp	/^void MoveMaker::take_move(Board &board) {$/;"	f	class:MoveMaker
+test	perft.cpp	/^int Perft::test(int depth, Board &board) {$/;"	f	class:Perft
+westOne	bitboard.cpp	/^static U64 westOne(const U64 &bb) {return (bb & not_file_a) >> 1;}$/;"	f	file:
