@@ -15,4 +15,4 @@ Then in Areana, select Engines > Install New Engine and pick bkchess using UCI p
 
 ###ACKNOWLEDGEMENTS:
   - Bitboard code was influenced by <a href="https://chessprogramming.wikispaces.com/Bitboards">chessprogramming.wikispace.com</a>
-  - <a href="https://www.youtube.com/watch?v=NBl92Vs0fos">Uci</a>, <a href="https://www.youtube.com/watch?v=_063cuTPOe8&list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg&index=54">Search</a>, <a href="https://www.youtube.com/watch?v=zSJF6jZ61w0&list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg&index=56">Evaluation</a> were heavily based on Vice engine covered by YouTube channel Bluefever
+  - <a href="https://www.youtube.com/watch?v=NBl92Vs0fos">Uci</a>, <a href="https://www.youtube.com/watch?v=_063cuTPOe8&list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg&index=54">Search</a>, <a href="https://www.youtube.com/watch?v=zSJF6jZ61w0&list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg&index=56">Evaluation</a> are heavily based on Vice engine covered by YouTube channel Bluefever
