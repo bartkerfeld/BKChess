@@ -1,5 +1,5 @@
 # BKChess
-BKChess is a simple chess engine developed as a project for CSCI 4511w
+BKChess is a simple chess engine developed originally as a project for CSCI 4511w
 
 It has only been tested on Ubuntu 16.04 using g++ 5.3.1. I cannot imagine there
 should be any issues running it on other linux versions but your millage may vary.
